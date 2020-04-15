@@ -2,7 +2,7 @@
 
 This was a course that I enrolled, the Web Development Bootcamp from Udemy.com. It is a 47-hour
 course during which various concepts such as API, authentication, databases, and routing were
-covered in depth. Throughout the some of the technologies covers include:
+covered in depth. Some of the technologies covered include:
 
 - HTML5 and CSS3
 - JavaScript
