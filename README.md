@@ -25,4 +25,4 @@ covered in depth. Throughout the some of the technologies covers include:
 The finished and deployed web application can be found [Here]. The code for this project
 is currently in the AWS and the app is hosted on Heroku.
 
-Here: https://afternoon-refuge-47213.herokuapp.com/campgrounds
+[Here]: https://afternoon-refuge-47213.herokuapp.com/campgrounds
